@@ -1,7 +1,7 @@
 {
   "name": "first_app",
   "version": "0.1.0",
-  "homepage": "https://Sanky24.github.io/ESD_project",
+  "homepage": "https://Sanky24.github.io/ESD_project/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
